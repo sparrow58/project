@@ -1,4 +1,4 @@
 project
 =======
 
-Our advancd web course project
+Our advancd web course project :)
